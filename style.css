@@ -14,3 +14,8 @@
     margin-bottom: 20px;
     border-radius: 6px;
 }
+
+.greenActive {
+    color: rgb(15, 150, 60);
+    font-weight: bold;
+}
